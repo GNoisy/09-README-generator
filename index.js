@@ -35,4 +35,13 @@ const questions = [
       choices: ["MIT", "GPL", "Apache", "BSD", "None"],
       message: "Select the project license: ",
     },
-  ];
+];
+function writeFile(fileName, data) {
+    fs.writeFileSync(fileName, data);
+  }
+  function init() {
+    inquirer.prompt(questions).then(answers => {
+      writeFile('./goodREADME.md', getMarkdown(answers));
+    })
+  }
+  init();
