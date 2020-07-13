@@ -4,6 +4,8 @@ function getMarkdown(data) {
   ## Table of contents
   * [Description](#description)
   * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
   ## Description
   ${data.description}
   ## Installation
@@ -13,7 +15,12 @@ function getMarkdown(data) {
   ## Credits
   ${data.credits}
   ## License
-  [![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)]
+  ![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)
+  ## Email
+  ${data.email}
+  <p>
+  <img src="${data.image}"> 
+  </p>
   `;
 }
 module.exports = getMarkdown;
