@@ -1,8 +1,8 @@
 # 09-README-generator
 
-![screenshot](weather-dashboard-screenshot.png)
+![](goodREADME.gif)
 
-This is an application that uses a third-party API that access weather forecast data. The data is dynamically updated and provides forecast data for five days.
+This is an application that lets the user dynamically generate a README.md file using the command line interface.
 
 ## Deployed Link
 
