@@ -29,8 +29,8 @@ https://flight-manual.atom.io/getting-started/sections/installing-atom/
 
 * **Giovanni Noisy**
 
-- [Link to Github](https://github.com/GNoisy)
-- [Link to LinkedIn](https://www.linkedin.com/in/giovanni-noisy-04098989/)
+- [Github](https://github.com/GNoisy)
+- [LinkedIn](https://www.linkedin.com/in/giovanni-noisy-04098989/)
 
 ### Acknowledgments
 
