@@ -1,18 +1,18 @@
 
-  # H
+  # h
   ## Table of contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
   ## Description
-  H
+  h
   ## Installation
-  H
+  h
   ## Usage
-  H
+  h
   ## Credits
-  H
+  h
   ## License
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Email
